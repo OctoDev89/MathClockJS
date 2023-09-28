@@ -1,2 +1,3 @@
 # MathClockJS
 A math project we had in class that I decided to make a web app out of...
+(It does acually work)
